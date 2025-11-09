@@ -1,0 +1,179 @@
+{
+  "id": "conteudos-da-guarda",
+  "title": "Conteúdos da GUARDA",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>Modulo com o conteúdo do servidor da GUARDA de Tenebris.</p>",
+  "authors": [
+    {
+      "name": "Mahakala",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+"packs": [
+  {
+    "name": "companheiros",
+    "label": "Companheiros e Transformações",
+    "path": "packs/transformacoes-e-companheiros",
+    "type": "Actor",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "system": "dnd5e",
+    "flags": {}
+  },
+    {
+    "name": "tabelas-guarda",
+    "label": "Tabelas GUARDA",
+    "path": "packs/tabelas-guarda",
+    "type": "RollTable",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "system": "dnd5e",
+    "flags": {}
+  },
+  {
+    "name": "classes",
+    "label": "Classes da GUARDA",
+    "path": "packs/classes",
+    "type": "Item",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "system": "dnd5e",
+    "flags": {}
+  },
+  {
+    "name": "itens",
+    "label": "Itens da Guarda",
+    "path": "packs/itens",
+    "type": "Item",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "system": "dnd5e",
+    "flags": {}
+  },
+  {
+    "name": "magias",
+    "label": "Magias da Guarda",
+    "path": "packs/magias",
+    "type": "Item",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "system": "dnd5e",
+    "flags": {}
+  },
+  
+  {
+    "name": "feats-guarda",
+    "label": "Feats GUARDA",
+    "path": "packs/feats-guarda",
+    "type": "Item",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "system": "dnd5e",
+    "flags": {}
+  },
+  {
+    "name": "origens-guarda",
+    "label": "Origens GUARDA",
+    "path": "packs/origens-guarda",
+    "type": "Item",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "system": "dnd5e",
+    "flags": {}
+  },
+  {
+    "name": "macros-guarga",
+    "label": "Macros GUARDA",
+    "path": "packs/macros-guarda",
+    "type": "Macro",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "flags": {}
+  },
+  {
+    "name": "pack-6",
+    "label": "Pack 6",
+    "path": "packs/pack-6",
+    "type": "Macro",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "flags": {}
+  },
+  {
+    "name": "pack-7",
+    "label": "Pack 7",
+    "path": "packs/pack-7",
+    "type": "Actor",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "system": "dnd5e",
+    "flags": {}
+  }
+],
+"packFolders": [
+  {
+    "name": "Meu Módulo Homebrew",
+    "color": "#5a3d85",
+    "sorting": "m",
+    "packs": [
+      "companheiros",
+      "tabelas-guarda",
+      "classes",
+      "itens",
+      "magias",
+      "origens-guarda",
+      "feats-guarda",
+      "pack-5",
+      "pack-6",
+      "macros-guarga",
+      "pack-7"
+    ]
+  }
+],
+  "relationships": {
+    "recommends": [
+      {
+        "id": "midi-qol",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "advanced-macros",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "effectmacro",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
