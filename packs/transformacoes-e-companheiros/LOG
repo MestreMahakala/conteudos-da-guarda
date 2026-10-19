@@ -1,3 +1,8 @@
-2025/11/08-22:43:23.907 2314 Recovering log #59
-2025/11/08-22:43:23.909 2314 Delete type=0 #59
-2025/11/08-22:43:23.909 2314 Delete type=3 #58
+2026/10/19-15:03:46.761 5bdc Recovering log #245
+2026/10/19-15:03:46.763 5bdc Delete type=0 #245
+2026/10/19-15:03:46.763 5bdc Delete type=3 #244
+2026/10/19-15:04:36.120 df90 Level-0 table #249: started
+2026/10/19-15:04:36.120 df90 Level-0 table #249: 0 bytes OK
+2026/10/19-15:04:36.121 df90 Delete type=0 #247
+2026/10/19-15:04:36.124 df90 Manual compaction at level-0 from '!actors!1Ifb7Mun6Dlm7Ntw' @ 72057594037927935 : 1 .. '!folders!zrIxV5ivVJKRweEy' @ 0 : 0; will stop at (end)
+2026/10/19-15:04:36.124 df90 Manual compaction at level-1 from '!actors!1Ifb7Mun6Dlm7Ntw' @ 72057594037927935 : 1 .. '!folders!zrIxV5ivVJKRweEy' @ 0 : 0; will stop at (end)

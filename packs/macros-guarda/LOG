@@ -1,3 +1,7 @@
-2025/11/08-22:43:24.332 2314 Recovering log #27
-2025/11/08-22:43:24.335 2314 Delete type=0 #27
-2025/11/08-22:43:24.335 2314 Delete type=3 #26
+2026/10/19-15:03:47.203 7e00 Recovering log #203
+2026/10/19-15:03:47.205 7e00 Delete type=0 #203
+2026/10/19-15:03:47.205 7e00 Delete type=3 #202
+2026/10/19-15:04:36.128 df90 Level-0 table #207: started
+2026/10/19-15:04:36.128 df90 Level-0 table #207: 0 bytes OK
+2026/10/19-15:04:36.129 df90 Delete type=0 #205
+2026/10/19-15:04:36.130 df90 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

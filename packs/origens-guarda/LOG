@@ -1,3 +1,7 @@
-2025/11/08-22:43:24.306 5f8 Recovering log #32
-2025/11/08-22:43:24.308 5f8 Delete type=0 #32
-2025/11/08-22:43:24.308 5f8 Delete type=3 #31
+2026/10/19-15:03:47.187 2df4 Recovering log #225
+2026/10/19-15:03:47.189 2df4 Delete type=0 #225
+2026/10/19-15:03:47.189 2df4 Delete type=3 #224
+2026/10/19-15:04:36.129 df90 Level-0 table #229: started
+2026/10/19-15:04:36.129 df90 Level-0 table #229: 0 bytes OK
+2026/10/19-15:04:36.130 df90 Delete type=0 #227
+2026/10/19-15:04:36.130 df90 Manual compaction at level-0 from '!folders!06rhhFIW7KfTvzu1' @ 72057594037927935 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at (end)

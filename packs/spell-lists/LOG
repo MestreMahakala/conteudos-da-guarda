@@ -1,0 +1,7 @@
+2026/10/19-15:03:47.229 5bdc Recovering log #151
+2026/10/19-15:03:47.231 5bdc Delete type=0 #151
+2026/10/19-15:03:47.231 5bdc Delete type=3 #150
+2026/10/19-15:04:36.133 df90 Level-0 table #155: started
+2026/10/19-15:04:36.134 df90 Level-0 table #155: 0 bytes OK
+2026/10/19-15:04:36.134 df90 Delete type=0 #153
+2026/10/19-15:04:36.134 df90 Manual compaction at level-0 from '!folders!DEzod8YU3nU4Y8eo' @ 72057594037927935 : 1 .. '!journal.pages!vvTxhtgewdKpMcPe.n1F2EZFjCHriWpzZ' @ 0 : 0; will stop at (end)

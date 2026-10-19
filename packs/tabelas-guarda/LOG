@@ -1,3 +1,7 @@
-2025/11/08-22:43:23.929 2248 Recovering log #46
-2025/11/08-22:43:23.931 2248 Delete type=0 #46
-2025/11/08-22:43:23.931 2248 Delete type=3 #45
+2026/10/19-15:03:46.781 5bdc Recovering log #224
+2026/10/19-15:03:46.783 5bdc Delete type=0 #224
+2026/10/19-15:03:46.783 5bdc Delete type=3 #223
+2026/10/19-15:04:36.121 df90 Level-0 table #228: started
+2026/10/19-15:04:36.121 df90 Level-0 table #228: 0 bytes OK
+2026/10/19-15:04:36.122 df90 Delete type=0 #226
+2026/10/19-15:04:36.124 df90 Manual compaction at level-0 from '!folders!01kRHnA8k0tQ0qyi' @ 72057594037927935 : 1 .. '!tables.results!tcoeWildMagicSur.zwlUILwQHZ9pQs0g' @ 0 : 0; will stop at (end)

@@ -1,3 +1,8 @@
-2025/11/08-22:43:23.951 1eec Recovering log #75
-2025/11/08-22:43:23.953 1eec Delete type=0 #75
-2025/11/08-22:43:23.953 1eec Delete type=3 #74
+2026/10/19-15:03:46.798 7e00 Recovering log #275
+2026/10/19-15:03:46.800 7e00 Delete type=0 #275
+2026/10/19-15:03:46.800 7e00 Delete type=3 #274
+2026/10/19-15:04:36.122 df90 Level-0 table #279: started
+2026/10/19-15:04:36.122 df90 Level-0 table #279: 0 bytes OK
+2026/10/19-15:04:36.123 df90 Delete type=0 #277
+2026/10/19-15:04:36.124 df90 Manual compaction at level-0 from '!folders!0Ca9gLGFA1up33c3' @ 72057594037927935 : 1 .. '!items.effects!tcoewilCauterizi.7xd72Gly5erFqATj' @ 0 : 0; will stop at (end)
+2026/10/19-15:04:36.124 df90 Manual compaction at level-1 from '!folders!0Ca9gLGFA1up33c3' @ 72057594037927935 : 1 .. '!items.effects!tcoewilCauterizi.7xd72Gly5erFqATj' @ 0 : 0; will stop at (end)

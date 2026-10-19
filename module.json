@@ -135,11 +135,24 @@
     },
     "system": "dnd5e",
     "flags": {}
+  },
+    {
+    "name": "spell-lists",
+    "label": "Spell Lists",
+    "path": "packs/spell-lists",
+    "type": "JournalEntry",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "system": "dnd5e",
+    "flags": {}
   }
+
 ],
 "packFolders": [
   {
-    "name": "Meu Módulo Homebrew",
+    "name": "Conteúdos da Guarda",
     "color": "#5a3d85",
     "sorting": "m",
     "packs": [
@@ -153,10 +166,35 @@
       "pack-5",
       "pack-6",
       "macros-guarga",
-      "pack-7"
+      "pack-7",
+      "spell-lists"
     ]
   }
 ],
+
+"flags": {
+  "canUpload": true,
+  "dnd5e": {
+    "spellLists": [
+      "Compendium.world.spell-lists.JournalEntry.0O2je8LumqVaLqkO.JournalEntryPage.Gr5Kf1GM0rWFr4aA",
+      "Compendium.world.spell-lists.JournalEntry.S1iYMsRozzYjZBtd.JournalEntryPage.oTgIQxNfLhwFHPbO",
+      "Compendium.world.spell-lists.JournalEntry.HE9TyFJXUjCbVEkg.JournalEntryPage.4HalbbcRvtSbiian",
+      "Compendium.world.spell-lists.JournalEntry.gdbG9PsPa3d9p9WV.JournalEntryPage.zON0qbSA8vLP6HlX",
+      "Compendium.world.spell-lists.JournalEntry.7SarbPJDSzVCs4m3.JournalEntryPage.arwb3uYqMPP4jPuj",
+      "Compendium.world.spell-lists.JournalEntry.q0mCHcGRGaeYiiJR.JournalEntryPage.CW3c0nKr2VgiD996",
+      "Compendium.world.spell-lists.JournalEntry.JGXpHAqzTXRDzkYo.JournalEntryPage.bGkoRtomddoUn6ZC",
+      "Compendium.world.spell-lists.JournalEntry.DJaApVsvnSIke0LK.JournalEntryPage.7D9fl5qPTvWA8wnc",
+      "Compendium.world.spell-lists.JournalEntry.bpMB6tj78mqedGkD.JournalEntryPage.n1F2EZFjCHriWpzZ",
+      "Compendium.world.spell-lists.JournalEntry.CSBY9zMWph38Cm61.JournalEntryPage.w1cFaQXQbOpflS5R",
+      "Compendium.world.spell-lists.JournalEntry.KQLU9k0QZkhXlkcG.JournalEntryPage.DDUIX24ytktFYzVk",
+      "Compendium.world.spell-lists.JournalEntry.vvTxhtgewdKpMcPe.JournalEntryPage.n1F2EZFjCHriWpzZ",
+      "Compendium.world.spell-lists.JournalEntry.AORCtDmbX9k4y2Vb.JournalEntryPage.n1F2EZFjCHriWpzZ",
+      "Compendium.world.spell-lists.JournalEntry.HoT7niC6WqyGjXlK.JournalEntryPage.U204NKSywH2lNVia",
+      "Compendium.world.spell-lists.JournalEntry.EPo1ltozYxQ1r5oD.JournalEntryPage.VUvt4m80qlO8VUMC"
+    ]
+  }
+},
+
   "relationships": {
     "recommends": [
       {
